@@ -1,0 +1,8 @@
+C:\Users\Bharat\Desktop\bridzelabz\Polymorphism\Flipcoin\VowelConsonent\bin\Debug\VowelConsonent.exe.config
+C:\Users\Bharat\Desktop\bridzelabz\Polymorphism\Flipcoin\VowelConsonent\bin\Debug\VowelConsonent.exe
+C:\Users\Bharat\Desktop\bridzelabz\Polymorphism\Flipcoin\VowelConsonent\bin\Debug\VowelConsonent.pdb
+C:\Users\Bharat\Desktop\bridzelabz\Polymorphism\Flipcoin\VowelConsonent\obj\Debug\VowelConsonent.csproj.AssemblyReference.cache
+C:\Users\Bharat\Desktop\bridzelabz\Polymorphism\Flipcoin\VowelConsonent\obj\Debug\VowelConsonent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bharat\Desktop\bridzelabz\Polymorphism\Flipcoin\VowelConsonent\obj\Debug\VowelConsonent.csproj.CoreCompileInputs.cache
+C:\Users\Bharat\Desktop\bridzelabz\Polymorphism\Flipcoin\VowelConsonent\obj\Debug\VowelConsonent.exe
+C:\Users\Bharat\Desktop\bridzelabz\Polymorphism\Flipcoin\VowelConsonent\obj\Debug\VowelConsonent.pdb
